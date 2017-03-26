@@ -1,0 +1,14 @@
+{
+  "name": "words",
+  "version": "1.0.0",
+  "description": "this is a applicaiton to read the words from file and then count them, sort them based on the count and then print them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
